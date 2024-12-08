@@ -28,3 +28,9 @@ What to keep in mind :\
 Train : The line we read from the file.\
 Address : The file descriptor number referencing the file.\
 Station : The file we are reading from.
+
+![](attachment/640d9c48502f74732032b896bf93fabe.png)
+
+### IMPORTANT VARIABLES VISUALIZED : 
+
+![](attachment/0047ab4fdd3e09be6eff4afacb10eed9.png)
