@@ -6,7 +6,7 @@
 /*   By: oimzilen <oimzilen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/30 01:18:14 by oimzilen          #+#    #+#             */
-/*   Updated: 2024/12/07 08:00:46 by oimzilen         ###   ########.fr       */
+/*   Updated: 2024/12/08 20:53:12 by oimzilen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,8 +19,6 @@
 
 # include <unistd.h>
 # include <stdlib.h>
-# include <limits.h>
-# include <stdio.h>
 
 char	*get_next_line(int fd);
 char	*ft_strjoin(char *s1, char *s2);
